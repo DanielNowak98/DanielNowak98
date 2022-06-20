@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @DanielNowak98
 - 👀 I’m interested in Machine Learning, Python, Movement-Analysis using mediapipe
 
-
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-
+[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
+[image]:
+https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
+(tooltip)
+  – or –
+[image]:
+https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
+"tooltip"
