@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @DanielNowak98
-- 👀 I’m interested in Machine Learning, Python, Movement-Analysis using mediapipe
+# 👋 Hi, I’m Daniel Nowak
 
-[![alt text][image]][hyperlink]
+### 👀 I’m interested in Machine Learning, Python, Movement-Analysis using mediapipe
 
-[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
-[image]:
-https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
-(tooltip)
+
+[![alt text][image_linkedin]][hyperlink_linkedin]
+
+[hyperlink_linkedin]: https://www.linkedin.com/in/daniel-nowak-124943162/
+[image_linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
